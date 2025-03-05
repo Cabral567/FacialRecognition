@@ -12,3 +12,20 @@ This program can be expanded to create advanced facial expression recognition sy
 - **Security and authentication** using more complex emotion and facial recognition models to improve access control systems.
 
 As facial expression recognition evolves, it can become a key tool in making machines more empathetic and intuitive to human emotions.
+
+# Detecção de Rosto e Sorriso em Tempo Real com OpenCV
+
+Este programa utiliza **OpenCV** para detectar rostos e sorrisos em tempo real usando uma webcam. Ele captura quadros de vídeo, converte-os para escala de cinza e aplica classificadores Haar Cascade para detectar rostos e sorrisos. Quando um rosto é detectado, um retângulo branco é desenhado ao redor dele e, se um sorriso for detectado, uma mensagem amarela "Sorriso Detectado" é exibida junto com um retângulo ao redor do sorriso.
+
+## Uso Futuro no Reconhecimento de Expressões Faciais
+
+Este programa pode ser expandido para criar sistemas avançados de reconhecimento de expressões faciais. No futuro, ele poderá ser utilizado para aplicações como:
+
+- **Detecção de emoções** em atendimento ao cliente ou marketing para avaliar reações dos usuários.
+- **Interação humano-computador** (IHC) para tornar os sistemas mais responsivos aos estados emocionais dos usuários.
+- **Monitoramento de saúde**, detectando mudanças de humor em indivíduos, auxiliando em avaliações de saúde mental.
+- **Segurança e autenticação**, utilizando modelos mais complexos de reconhecimento facial e de emoções para aprimorar sistemas de controle de acesso.
+
+À medida que o reconhecimento de expressões faciais evolui, ele pode se tornar uma ferramenta essencial para tornar as máquinas mais empáticas e intuitivas às emoções humanas.
+
+
