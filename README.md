@@ -30,13 +30,20 @@ Este programa pode ser expandido para criar sistemas avançados de reconheciment
 
 ## Installation
 
-1. Install the project dependencies:
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Cabral567/FacialRecognition.git
+    cd FacialRecognition
+    ```
+
+2. Install the project dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-2. Run the main script:
+3. Run the main script:
 
     ```bash
     python facial.py
