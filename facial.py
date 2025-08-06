@@ -39,5 +39,5 @@ while True:                                                                     
 cap.release()                                                                                                  # Release resources
 cv2.destroyAllWindows()                                                                                        # Close all windows
 
-## ola maluco 
+
 
