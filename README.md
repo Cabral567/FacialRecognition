@@ -28,4 +28,18 @@ Este programa pode ser expandido para criar sistemas avançados de reconheciment
 
 À medida que o reconhecimento de expressões faciais evolui, ele pode se tornar uma ferramenta essencial para tornar as máquinas mais empáticas e intuitivas às emoções humanas.
 
+## Installation
+
+1. Install the project dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+2. Run the main script:
+
+    ```bash
+    python facial.py
+    ```
+
 
